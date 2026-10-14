@@ -21,6 +21,11 @@
 
 </div>
 
+<p align="center">
+  <img src="images/home-light.png" alt="Ylog 첫 화면" width="49%"/>
+  <img src="images/home-dark.png" alt="Ylog 첫 화면 (다크 모드)" width="49%"/>
+</p>
+
 ## 프로젝트 개요
 
 **Ylog**는 회원가입만 하면 자기 블로그를 하나 갖고, 글을 쓰고, 다른 사람의 글을 주제별로 둘러보며 댓글과 좋아요로 소통하는 블로그 서비스입니다. 기획부터 배포·운영까지 혼자 진행했습니다.
